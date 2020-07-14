@@ -1,4 +1,4 @@
-# Terraform template for AWS ECS/Fargate
+# Terraform AWS ECS/Fargate
 
 This terraform setup can be used to setup the AWS infrastructure
 for a dockerized application running on ECS with Fargate launch
